@@ -7,19 +7,19 @@ Disciplina **Frameworks Front-End**
 Uninassau - Natal/RN
 Ministrada pelo professor **Renato Freire**.
 
-## 🧰 Tecnologias
+## Tecnologias
 - React + TypeScript + Vite
 - JSON Server
 - CSS
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Listagem de itens
 - Cadastro (POST)
 - Edição (PUT)
 - Exclusão (DELETE)
 - Dados persistidos em `db.json`
 
-## 🖥️ Como executar
+## Como executar
 
 ### 1. Instale as dependências
 ```bash
