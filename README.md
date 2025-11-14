@@ -1,14 +1,14 @@
 # React Typescript
 
-*ALUNO:* José Vinícius Ribeiro e Silva
+# ALUNO: # José Vinícius Ribeiro e Silva
 
-*MATRICULA:* 01797856
+# MATRICULA: # 01797856
 
-*PROFESSOR:* Renato Freire
+# PROFESSOR: # Renato Freire
 
-*DISCIPLINA:* Front End e Frameworks
+# DISCIPLINA: # Front End e Frameworks
 
-*CURSO:* Analise e Desenvolvimento de Sistemas
+# CURSO: # Analise e Desenvolvimento de Sistemas
 
 # Catálogo de Filmes e Séries
 
