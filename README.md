@@ -23,3 +23,6 @@ CURSO: Analise e Desenvolvimento de Sistemas
 - Edição (PUT)
 - Exclusão (DELETE)
 - Dados persistidos em `db.json`
+
+## Vídeo:
+https://drive.google.com/file/d/1vau-0mnj-vthO1AjZUPeSuero0u-XUH3/view?usp=drivesdk
